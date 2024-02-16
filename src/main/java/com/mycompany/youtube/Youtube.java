@@ -18,6 +18,6 @@ public class Youtube {
         
         Usuario usuario2=new Usuario("PERLA");
             Comentario comment1=new Comentario("Asco de página", usuario2);
-            System.out.println("El usuario "+ usuario2.getNombre()+ "publicó el comentario "+ comment1.getContenido());
+            System.out.println("El usuario "+ usuario2.getNombre()+ " publicó el comentario "+ comment1.getContenido());
     }
 }

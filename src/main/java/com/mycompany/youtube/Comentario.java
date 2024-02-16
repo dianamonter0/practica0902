@@ -13,7 +13,7 @@ public class Comentario {
     private Usuario autor;
     
     public Comentario(String contenido, Usuario autor){
-        this.contenido = contenido;
+        this.Contenido = contenido;
         this.autor = autor;
     }
 
