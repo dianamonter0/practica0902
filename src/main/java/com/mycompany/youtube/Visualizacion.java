@@ -20,17 +20,13 @@ public class Visualizacion {
     public Usuario getEspectador() {
         return espectador;
     }
-
     public void setEspectador(Usuario espectador) {
         this.espectador = espectador;
     }
-
     public Video getVideo() {
         return video;
     }
-
     public void setVideo(Video video) {
         this.video = video;
     }
-    
 }

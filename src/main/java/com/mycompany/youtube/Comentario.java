@@ -16,19 +16,15 @@ public class Comentario {
         this.Contenido = contenido;
         this.autor = autor;
     }
-
     public String getContenido() {
         return Contenido;
     }
-
     public void setContenido(String Contenido) {
         this.Contenido = Contenido;
     }
-
     public Usuario getAutor() {
         return autor;
     }
-
     public void setAutor(Usuario autor) {
         this.autor = autor;
     }
