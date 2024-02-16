@@ -19,19 +19,18 @@ public class Usuario {
     public String getNombre() {
         return nombre;
     }
-
     public void setNombre(String nombre) {
         this.nombre = nombre;
     }
-
     public Video getVideoSubido() {
         return videoSubido;
     }
-
     public void subirVideo(Video videoSubido) {
         this.videoSubido = videoSubido;
     }
     
+    
+   
     public void mostrarInfoUsuario(){
         System.out.println("Usuario "+nombre);
         if (videoSubido !=null){

@@ -28,5 +28,5 @@ public class Visualizacion {
     }
     public void setVideo(Video video) {
         this.video = video;
-    }
+        }
 }
