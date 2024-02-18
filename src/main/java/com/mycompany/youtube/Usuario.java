@@ -29,8 +29,6 @@ public class Usuario {
         this.videoSubido = videoSubido;
     }
     
-    
-   
     public void mostrarInfoUsuario(){
         System.out.println("Usuario "+nombre);
         if (videoSubido !=null){

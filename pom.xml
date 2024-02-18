@@ -11,4 +11,5 @@
         <maven.compiler.target>21</maven.compiler.target>
         <exec.mainClass>com.mycompany.youtube.Youtube</exec.mainClass>
     </properties>
+    <name>Youtube1</name>
 </project>
