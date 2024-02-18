@@ -28,5 +28,4 @@ public class Comentario {
     public void setAutor(Usuario autor) {
         this.autor = autor;
     }
-    
 }
